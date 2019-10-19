@@ -1,0 +1,1 @@
+This completes the given requirements for E05b-Physics.  I believe I completed the main3.py portion, however it ran once correctly then stopped. 
